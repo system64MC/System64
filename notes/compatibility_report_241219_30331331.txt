@@ -1,0 +1,702 @@
+Conversion du script GML : ${project_dir}\scripts\allow_player_movement\allow_player_movement.gml
+Description convertie /// @description  allow_player_movement();
+
+Conversion du script GML : ${project_dir}\scripts\allow_player_movement_h\allow_player_movement_h.gml
+Description convertie /// @description  allow_player_movement();
+
+Conversion du script GML : ${project_dir}\scripts\collision_and_moving\collision_and_moving.gml
+Description convertie /// @description  collision_and_moving(objects);/// @param objects
+
+Conversion du script GML : ${project_dir}\scripts\GME_LoadSong\GME_LoadSong.gml
+Description convertie /// @description GME_LoadSong(filename)/// @param filename
+
+Conversion du script GML : ${project_dir}\scripts\GME_MuteVoice\GME_MuteVoice.gml
+Description convertie /// @description GME_MuteVoice(voice, mute)/// @param voice
+/// @param  mute
+
+Conversion du script GML : ${project_dir}\scripts\GME_MuteVoices\GME_MuteVoices.gml
+Description convertie /// @description GME_MuteVoices(mask)/// @param mask
+
+Conversion du script GML : ${project_dir}\scripts\GME_Pause\GME_Pause.gml
+Description convertie /// @description GME_Pause(pause)/// @param pause
+
+Conversion du script GML : ${project_dir}\scripts\GME_Play\GME_Play.gml
+Description convertie /// @description GME_Play()
+
+Conversion du script GML : ${project_dir}\scripts\GME_Stop\GME_Stop.gml
+Description convertie /// @description GME_Stop()
+
+Conversion du script GML : ${project_dir}\scripts\GME_SetTempo\GME_SetTempo.gml
+Description convertie /// @description GME_SetTempo(tempo)/// @param tempo
+
+Conversion du script GML : ${project_dir}\scripts\GME_StartTrack\GME_StartTrack.gml
+Description convertie /// @description GME_StartTrack(track_number)/// @param track_number
+
+Conversion du script GML : ${project_dir}\scripts\GME_NumVoices\GME_NumVoices.gml
+Description convertie /// @description GME_NumVoices()
+
+Conversion du script GML : ${project_dir}\scripts\GME_NumTracks\GME_NumTracks.gml
+Description convertie /// @description GME_NumTracks()
+
+Conversion du script GML : ${project_dir}\scripts\GME_GetPosition\GME_GetPosition.gml
+Description convertie /// @description GME_GetPosition()
+
+Conversion du script GML : ${project_dir}\scripts\GME_SetPosition\GME_SetPosition.gml
+Description convertie /// @description GME_SetPosition(milliseconds)/// @param milliseconds
+
+Conversion du script GML : ${project_dir}\scripts\GME_GetTrackLength\GME_GetTrackLength.gml
+Description convertie /// @description GME_GetTrackLength()
+
+Conversion du script GML : ${project_dir}\scripts\GME_GetName\GME_GetName.gml
+Description convertie /// @description GME_GetName()
+
+Conversion du script GML : ${project_dir}\scripts\GME_GetAuthor\GME_GetAuthor.gml
+Description convertie /// @description GME_GetAuthor()
+
+Conversion du script GML : ${project_dir}\scripts\GME_GetComment\GME_GetComment.gml
+Description convertie /// @description GME_GetComment()
+
+Conversion du script GML : ${project_dir}\scripts\GME_GetCopyright\GME_GetCopyright.gml
+Description convertie /// @description GME_GetCopyright()
+
+Conversion du script GML : ${project_dir}\scripts\menu_create\menu_create.gml
+Description convertie /// @description menu_create(name,type,scr/var, current, values)/// @param name
+/// @param type
+/// @param scr/var
+/// @param  current
+/// @param  values
+
+Conversion du script GML : ${project_dir}\scripts\array\array.gml
+Description convertie /// @description  array()
+
+Conversion du script GML : ${project_dir}\scripts\animated_tile_add\animated_tile_add.gml
+Description convertie /// @description animated_tile_add(background,speed,BG Frame 1, BG Frame 2, 3, 4... etc);/// @param background
+/// @param speed
+/// @param BG Frame 1
+/// @param  BG Frame 2
+/// @param  3
+/// @param  4... etc
+
+Conversion du script GML : ${project_dir}\scripts\animated_tile_update\animated_tile_update.gml
+Description convertie /// @description Animates the tiles
+
+Conversion du script GML : ${project_dir}\scripts\wrap\wrap.gml
+Description convertie /// @description wrap(value,min,max)/// @param value
+/// @param min
+/// @param max
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_enable_override\pal_swap_enable_override.gml
+Description convertie /// @description pal_swap_enable_override(pal sprite)/// @param pal sprite
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_draw_palette\pal_swap_draw_palette.gml
+Description convertie /// @description pal_swap_draw_palette(palette_sprite,pal_index,x,y);/// @param palette_sprite
+/// @param pal_index
+/// @param x
+/// @param y
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_index_palette\pal_swap_index_palette.gml
+Description convertie /// @description pal_swap_index_palette(palette sprite index)/// @param palette sprite index
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_init_system\pal_swap_init_system.gml
+Description convertie /// @description pal_swap_init_system(shader,enable indexing <optional>)/// @param shader
+/// @param enable indexing <optional>
+Chaîne convertie - ligne 12 : 'texel_size' -> "texel_size"
+Chaîne convertie - ligne 13 : 'palette_UVs' -> "palette_UVs"
+Chaîne convertie - ligne 14 : 'palette_index' -> "palette_index"
+Chaîne convertie - ligne 15 : 'palette_texture' -> "palette_texture"
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_reset\pal_swap_reset.gml
+Description convertie /// @description pal_swap_reset();
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_set\pal_swap_set.gml
+Description convertie /// @description pal_swap_set(palette_sprite_index, palette_index,palette is surface);/// @param palette_sprite_index
+/// @param  palette_index
+/// @param palette is surface
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_get_pal_color\pal_swap_get_pal_color.gml
+Description convertie /// @description pal_swap_get_pal_color(palette sprite,pal index, color index)/// @param palette sprite
+/// @param pal index
+/// @param  color index
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_get_pal_count\pal_swap_get_pal_count.gml
+Description convertie /// @description pal_swap_get_pal_count(palette sprite)/// @param palette sprite
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_get_color_count\pal_swap_get_color_count.gml
+Description convertie /// @description pal_swap_get_color_count(palette sprite)/// @param palette sprite
+
+Conversion du script GML : ${project_dir}\scripts\pal_swap_set_tiles\pal_swap_set_tiles.gml
+Description convertie /// @description pal_swap_set_tiles(palette sprite or surface, pal index, start layer, end layer, pal is surface);/// @param palette sprite or surface
+/// @param  pal index
+/// @param  start layer
+/// @param  end layer
+/// @param  pal is surface
+
+Conversion du script GML : ${project_dir}\scripts\draw_background_tiled_horizontal_ext\draw_background_tiled_horizontal_ext.gml
+Intégré converti - ligne 31 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Intégré converti - ligne 31 : view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Description convertie /// @description draw_background_tiled_horizontal_ext(back,x,y,xscale,yscale,angle,color,alpha);/// @param back
+/// @param x
+/// @param y
+/// @param xscale
+/// @param yscale
+/// @param angle
+/// @param color
+/// @param alpha
+
+Conversion du script GML : ${project_dir}\scripts\outside_view\outside_view.gml
+Intégré converti - ligne 14 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Intégré converti - ligne 16 : view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Intégré converti - ligne 15 : view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Intégré converti - ligne 17 : view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Intégré converti - ligne 16 : view_wview[view_current] -> __view_get( e__VW.WView, view_current )
+Intégré converti - ligne 17 : view_hview[view_current] -> __view_get( e__VW.HView, view_current )
+Description convertie /// @description outside_view(distance)/// @param distance
+
+Conversion du script GML : ${project_dir}\scripts\audio_stop_play_sound\audio_stop_play_sound.gml
+Description convertie /// @description audio_stop_play_sound(sound_id, priority, loop);/// @param sound_id
+/// @param  priority
+/// @param  loop
+
+Conversion du script GML : ${project_dir}\scripts\PlayerGrav1\PlayerGrav1.gml
+Chaîne convertie - ligne 4 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 6 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 17 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 18 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 19 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 24 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 26 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 46 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 47 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 48 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 52 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 54 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 74 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 75 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 76 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 80 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 93 : 'JUMPING' -> "JUMPING"
+Chaîne convertie - ligne 97 : 'JUMPING' -> "JUMPING"
+Chaîne convertie - ligne 186 : 'IDLE' -> "IDLE"
+
+Conversion du script GML : ${project_dir}\scripts\PlayerGrav2\PlayerGrav2.gml
+Chaîne convertie - ligne 6 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 8 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 19 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 20 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 21 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 26 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 28 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 48 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 49 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 50 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 54 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 56 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 76 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 77 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 78 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 82 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 95 : 'JUMPING' -> "JUMPING"
+Chaîne convertie - ligne 99 : 'JUMPING' -> "JUMPING"
+
+Conversion du script GML : ${project_dir}\scripts\PlayerGravM2\PlayerGravM2.gml
+Chaîne convertie - ligne 7 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 9 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 20 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 21 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 22 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 27 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 29 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 49 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 50 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 51 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 55 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 57 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 77 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 78 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 79 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 83 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 96 : 'JUMPING' -> "JUMPING"
+Chaîne convertie - ligne 100 : 'JUMPING' -> "JUMPING"
+
+Conversion du script GML : ${project_dir}\scripts\PlayerGravM1\PlayerGravM1.gml
+Chaîne convertie - ligne 4 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 6 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 17 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 18 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 19 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 24 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 26 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 46 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 47 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 48 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 52 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 54 : 'LEFT' -> "LEFT"
+Chaîne convertie - ligne 74 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 75 : 'RIGHT' -> "RIGHT"
+Chaîne convertie - ligne 76 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 80 : 'JUMPING_INIT' -> "JUMPING_INIT"
+Chaîne convertie - ligne 93 : 'JUMPING' -> "JUMPING"
+Chaîne convertie - ligne 97 : 'JUMPING' -> "JUMPING"
+
+La police font0 a été convertie en famille de polices Arial (Regular).
+La texture de police GameMaker Studio 1 a été sauvegardée à ${project_dir}\fonts\font0\font0.gms1.png
+Conversion du script GML : ${project_dir}\objects\obj_follower\Step_0.gml
+Description convertie /// @description  Follow player
+
+Conversion du script GML : ${project_dir}\objects\ctrl_main\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\ctrl_main\Alarm_0.gml
+Description convertie /// @description  Center window
+
+Conversion du script GML : ${project_dir}\objects\input\Step_0.gml
+Description convertie /// @description  Check for inputs
+Chaîne convertie - ligne 17 : 'W' -> "W"
+Chaîne convertie - ligne 18 : 'S' -> "S"
+Chaîne convertie - ligne 19 : 'D' -> "D"
+Chaîne convertie - ligne 20 : 'A' -> "A"
+Chaîne convertie - ligne 21 : 'E' -> "E"
+Chaîne convertie - ligne 22 : 'Q' -> "Q"
+
+Conversion du script GML : ${project_dir}\objects\obj_player\Create_0.gml
+Description convertie /// @description  Set variables
+Chaîne convertie - ligne 13 : 'IDLE' -> "IDLE"
+Chaîne convertie - ligne 15 : 'IDLE' -> "IDLE"
+
+Conversion du script GML : ${project_dir}\objects\obj_player\Step_0.gml
+Description convertie /// @description  Main actions
+
+Conversion du script GML : ${project_dir}\objects\obj_player\Draw_64.gml
+Chaîne convertie - ligne 4 : 'Player state: ' -> "Player state: "
+Chaîne convertie - ligne 5 : 'Player hsp: ' -> "Player hsp: "
+Chaîne convertie - ligne 6 : 'Player vsp: ' -> "Player vsp: "
+Chaîne convertie - ligne 7 : 'object: ' -> "object: "
+
+Conversion du script GML : ${project_dir}\objects\obj_goomba\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\obj_goomba\Alarm_0.gml
+Description convertie /// @description  Death timer
+
+Conversion du script GML : ${project_dir}\objects\obj_brick\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\obj_brick\Step_0.gml
+Description convertie /// @description  Main actions
+
+Conversion du script GML : ${project_dir}\objects\obj_brick_mushroom\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\obj_brick_mushroom\Step_0.gml
+Description convertie /// @description  Main actions
+
+Conversion du script GML : ${project_dir}\objects\obj_brick_inf_coin\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\obj_brick_inf_coin\Step_0.gml
+Description convertie /// @description  Main actions
+
+Conversion du script GML : ${project_dir}\objects\obj_brick_star\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\obj_brick_star\Step_0.gml
+Description convertie /// @description  Main actions
+
+Conversion du script GML : ${project_dir}\objects\obj_block_coin\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\obj_block_coin\Step_0.gml
+Description convertie /// @description  Main actions
+
+Conversion du script GML : ${project_dir}\objects\obj_block_mushroom\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\obj_block_mushroom\Step_0.gml
+Description convertie /// @description  Main actions
+
+Conversion du script GML : ${project_dir}\objects\obj_invisible_1up\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\obj_invisible_1up\Step_0.gml
+Description convertie /// @description  Main actions
+
+Conversion du script GML : ${project_dir}\objects\obj_holdparent\Create_0.gml
+Description convertie /// @description The parent object for all holdable items.
+
+Conversion du script GML : ${project_dir}\objects\obj_holdparent\Destroy_0.gml
+Description convertie /// @description Protect Mario from the horrors of holding anything
+
+Conversion du script GML : ${project_dir}\objects\obj_holdparent\Step_2.gml
+Description convertie /// @description If the item is being held.
+
+Conversion du script GML : ${project_dir}\objects\obj_holdparent\Step_0.gml
+Description convertie /// @description Holdable Item logic
+
+Conversion du script GML : ${project_dir}\objects\obj_holdparent\Collision_bd8ffcf2-23ae-4a11-94cd-0fe40aab0196.gml
+Description convertie /// @description Make Mario hold or interact with the item.
+
+Conversion du script GML : ${project_dir}\objects\obj_holdparent\Other_12.gml
+Description convertie /// @description Default throw / kick event.
+
+Conversion du script GML : ${project_dir}\objects\obj_holdparent\Other_11.gml
+Description convertie /// @description Default stomp event
+
+Conversion du script GML : ${project_dir}\objects\obj_holdparent\Other_5.gml
+Description convertie /// @description Remember the item held for the next room.
+
+Conversion du script GML : ${project_dir}\objects\obj_star\Create_0.gml
+Description convertie /// @description  Setup
+
+Conversion du script GML : ${project_dir}\objects\GridBoot\Create_0.gml
+Description convertie /// @description  Initialize Object
+
+Conversion du script GML : ${project_dir}\objects\GridBoot\Draw_0.gml
+Description convertie /// @description Draw With Unlimited Palette Swap     
+
+Conversion du script GML : ${project_dir}\objects\BootTitle\Step_0.gml
+Intégré converti - ligne 25 : background_colour = make_colour_rgb(38, 43, 68) -> __background_set_colour( make_colour_rgb(38, 43, 68) )
+Intégré converti - ligne 31 : background_colour = make_colour_rgb(8, 24, 32) -> __background_set_colour( make_colour_rgb(8, 24, 32) )
+Intégré converti - ligne 38 : background_colour = make_colour_rgb(0, 0, 0) -> __background_set_colour( make_colour_rgb(0, 0, 0) )
+
+Conversion du script GML : ${project_dir}\objects\BootTitle\Draw_0.gml
+Description convertie /// @description Draw With Unlimited Palette Swap     
+
+Conversion du script GML : ${project_dir}\objects\TextDrawBIOS\Draw_0.gml
+Chaîne convertie - ligne 15 : " | |  | | | | '_ \| \ \/ / _ \/ __|" -> " | |  | | | | '_ \\| \\ \\/ / _ \\/ __|"
+Chaîne convertie - ligne 16 : " | |__| |_| | | | | |>  < (_) \__ \" -> " | |__| |_| | | | | |>  < (_) \\__ \\"
+Chaîne convertie - ligne 17 : " |_____\__,_|_| |_|_/_/\_\___/|___/" -> " |_____\\__,_|_| |_|_/_/\\_\\___/|___/"
+
+Conversion du script GML : ${project_dir}\objects\GridBootAnim\Create_0.gml
+Description convertie /// @description Object Properties
+
+Conversion du script GML : ${project_dir}\objects\GridBootAnim\Step_0.gml
+Description convertie /// @description Change palette with up/down (Basic)/// @param Basic
+
+Conversion du script GML : ${project_dir}\objects\GridBootAnim\Draw_0.gml
+Description convertie /// @description Instructions
+
+Conversion du script GML : ${project_dir}\objects\TilePal\Create_0.gml
+Description convertie /// @description Object Properties
+
+Conversion du script GML : ${project_dir}\objects\TilePal\Step_0.gml
+Intégré converti - ligne 8 : background_blend[1] = make_colour_rgb(192, 203, 220) -> __background_set( e__BG.Blend, 1, make_colour_rgb(192, 203, 220) )
+Intégré converti - ligne 16 : background_blend[1] = make_colour_rgb(224, 248, 208) -> __background_set( e__BG.Blend, 1, make_colour_rgb(224, 248, 208) )
+Intégré converti - ligne 25 : background_blend[1] = make_colour_rgb(255, 255, 255) -> __background_set( e__BG.Blend, 1, make_colour_rgb(255, 255, 255) )
+Intégré converti - ligne 7 : background_colour = make_colour_rgb(38, 43, 68) -> __background_set_colour( make_colour_rgb(38, 43, 68) )
+Intégré converti - ligne 15 : background_colour = make_colour_rgb(8, 24, 32) -> __background_set_colour( make_colour_rgb(8, 24, 32) )
+Intégré converti - ligne 24 : background_colour= make_colour_rgb(0, 0, 0) -> __background_set_colour( make_colour_rgb(0, 0, 0) )
+
+Conversion du script GML : ${project_dir}\objects\TilePal\Draw_0.gml
+Description convertie /// @description Draw Palette
+
+Conversion du script GML : ${project_dir}\objects\TileGamePal\Create_0.gml
+Description convertie /// @description Object Properties
+
+Conversion du script GML : ${project_dir}\objects\TileGamePal\Step_0.gml
+Intégré converti - ligne 30 : background_colour = make_colour_rgb(0, 0, 0) -> __background_set_colour( make_colour_rgb(0, 0, 0) )
+Intégré converti - ligne 38 : background_colour = make_colour_rgb(32, 43, 68) -> __background_set_colour( make_colour_rgb(32, 43, 68) )
+Intégré converti - ligne 44 : background_colour = make_colour_rgb(8, 24, 32) -> __background_set_colour( make_colour_rgb(8, 24, 32) )
+Intégré converti - ligne 23 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 23 : view_yview -> __view_get( e__VW.YView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\TileGamePal\Draw_0.gml
+Description convertie /// @description Draw Instructions
+
+Conversion du script GML : ${project_dir}\objects\TitleBGPal\Create_0.gml
+Description convertie /// @description Object Properties
+
+Conversion du script GML : ${project_dir}\objects\TitleBGPal\Step_0.gml
+Intégré converti - ligne 7 : background_colour = make_colour_rgb(38, 43, 68) -> __background_set_colour( make_colour_rgb(38, 43, 68) )
+Intégré converti - ligne 15 : background_colour= make_colour_rgb(0, 0, 0) -> __background_set_colour( make_colour_rgb(0, 0, 0) )
+
+Conversion du script GML : ${project_dir}\objects\TitleBGPal\Draw_0.gml
+Description convertie /// @description Draw Palette
+
+Conversion du script GML : ${project_dir}\objects\MenuPal_obj\Create_0.gml
+Description convertie /// @description Object Properties
+
+Conversion du script GML : ${project_dir}\objects\MenuPal_obj\Step_0.gml
+Intégré converti - ligne 7 : background_colour = make_colour_rgb(38, 43, 68) -> __background_set_colour( make_colour_rgb(38, 43, 68) )
+Intégré converti - ligne 15 : background_colour= make_colour_rgb(0, 0, 0) -> __background_set_colour( make_colour_rgb(0, 0, 0) )
+
+Conversion du script GML : ${project_dir}\objects\BGPal\Create_0.gml
+Intégré converti - ligne 9 : background_vspeed[2] = 0 -> __background_set( e__BG.VSpeed, 2, 0 )
+
+Conversion du script GML : ${project_dir}\objects\BGPal\Step_0.gml
+Intégré converti - ligne 1 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 5 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 21 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 26 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 4 : background_vspeed[2] += 0.01 -> __background_set( e__BG.VSpeed, 2, __background_get( e__BG.VSpeed, 2 ) + (0.01) )
+Intégré converti - ligne 23 : background_vspeed[2] -= 0.01 -> __background_set( e__BG.VSpeed, 2, __background_get( e__BG.VSpeed, 2 ) - (0.01) )
+Intégré converti - ligne 28 : background_vspeed[2] += 0.01 -> __background_set( e__BG.VSpeed, 2, __background_get( e__BG.VSpeed, 2 ) + (0.01) )
+
+Conversion du script GML : ${project_dir}\objects\BGPal\Draw_0.gml
+Intégré converti - ligne 4 : background_index[2] -> __background_get( e__BG.Index, 2 )
+Intégré converti - ligne 4 : background_x[2] -> __background_get( e__BG.X, 2 )
+Intégré converti - ligne 4 : background_y[2] -> __background_get( e__BG.Y, 2 )
+Intégré converti - ligne 4 : background_hspeed[2] -> __background_get( e__BG.HSpeed, 2 )
+Intégré converti - ligne 4 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 4 : background_blend[2] -> __background_get( e__BG.Blend, 2 )
+Intégré converti - ligne 4 : background_alpha[2] -> __background_get( e__BG.Alpha, 2 )
+Intégré converti - ligne 4 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 4 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\CamMove\Step_0.gml
+Intégré converti - ligne 7 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 11 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 9 : view_xview -= 416 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) - (416) )
+Intégré converti - ligne 13 : view_xview += 416 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (416) )
+Intégré converti - ligne 15 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 19 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 17 : view_yview -= 240 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (240) )
+Intégré converti - ligne 21 : view_yview += 240 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (240) )
+Intégré converti - ligne 5 : view_hspeed = 0 -> __view_set( e__VW.HSpeed, 0, 0 )
+Intégré converti - ligne 6 : view_vspeed = 0 -> __view_set( e__VW.VSpeed, 0, 0 )
+
+Conversion du script GML : ${project_dir}\objects\CamScroll\Step_0.gml
+Intégré converti - ligne 22 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 23 : view_xview[0] -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 25 : view_xview[0] = XScreen -> __view_set( e__VW.XView, 0, XScreen )
+Intégré converti - ligne 27 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 28 : view_yview[0] -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 22 : view_xview[0] += ((XScreen - __view_get( e__VW.XView, 0 )) / 12) -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (((XScreen - __view_get( e__VW.XView, 0 )) / 12)) )
+Intégré converti - ligne 27 : view_yview[0] += ((YScreen - __view_get( e__VW.YView, 0 )) / 12) -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (((YScreen - __view_get( e__VW.YView, 0 )) / 12)) )
+
+Conversion du script GML : ${project_dir}\objects\RoomNameTitle\Draw_0.gml
+Intégré converti - ligne 3 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 3 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 7 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 15 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 3 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 3 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 7 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 15 : view_yview -> __view_get( e__VW.YView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\updownscrolling\Create_0.gml
+Intégré converti - ligne 1 : background_vspeed[2] = 0 -> __background_set( e__BG.VSpeed, 2, 0 )
+
+Conversion du script GML : ${project_dir}\objects\updownscrolling\Step_0.gml
+Intégré converti - ligne 1 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 5 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 21 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 26 : background_vspeed[2] -> __background_get( e__BG.VSpeed, 2 )
+Intégré converti - ligne 4 : background_vspeed[2] += 0.01 -> __background_set( e__BG.VSpeed, 2, __background_get( e__BG.VSpeed, 2 ) + (0.01) )
+Intégré converti - ligne 23 : background_vspeed[2] -= 0.01 -> __background_set( e__BG.VSpeed, 2, __background_get( e__BG.VSpeed, 2 ) - (0.01) )
+Intégré converti - ligne 28 : background_vspeed[2] += 0.01 -> __background_set( e__BG.VSpeed, 2, __background_get( e__BG.VSpeed, 2 ) + (0.01) )
+
+Conversion du script GML : ${project_dir}\objects\updownscrolling2\Create_0.gml
+Intégré converti - ligne 1 : background_vspeed[1] = 0 -> __background_set( e__BG.VSpeed, 1, 0 )
+
+Conversion du script GML : ${project_dir}\objects\updownscrolling2\Step_0.gml
+Intégré converti - ligne 1 : background_vspeed[1] -> __background_get( e__BG.VSpeed, 1 )
+Intégré converti - ligne 5 : background_vspeed[1] -> __background_get( e__BG.VSpeed, 1 )
+Intégré converti - ligne 21 : background_vspeed[1] -> __background_get( e__BG.VSpeed, 1 )
+Intégré converti - ligne 26 : background_vspeed[1] -> __background_get( e__BG.VSpeed, 1 )
+Intégré converti - ligne 4 : background_vspeed[1] += 0.005 -> __background_set( e__BG.VSpeed, 1, __background_get( e__BG.VSpeed, 1 ) + (0.005) )
+Intégré converti - ligne 23 : background_vspeed[1] -= 0.005 -> __background_set( e__BG.VSpeed, 1, __background_get( e__BG.VSpeed, 1 ) - (0.005) )
+Intégré converti - ligne 28 : background_vspeed[1] += 0.005 -> __background_set( e__BG.VSpeed, 1, __background_get( e__BG.VSpeed, 1 ) + (0.005) )
+
+Conversion du script GML : ${project_dir}\objects\obj_gme\Other_74.gml
+Description convertie /// @description  Fill an audio buffer and add it to the queue
+
+Conversion du script GML : ${project_dir}\objects\obj_gme\Other_3.gml
+Description convertie /// @description  Unload possible file
+
+Conversion du script GML : ${project_dir}\objects\obj_gme_demo\Create_0.gml
+Description convertie /// @description  Load and play a song
+
+Conversion du script GML : ${project_dir}\objects\obj_gme_demo\Step_0.gml
+Description convertie /// @description  Test various GameMusicEmu functions
+
+Conversion du script GML : ${project_dir}\objects\obj_gme_demo\Draw_0.gml
+Description convertie /// @description  Draw info
+
+Conversion du script GML : ${project_dir}\objects\obj_CRT_Windows\Create_0.gml
+Intégré converti - ligne 7 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 19 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 8 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Intégré converti - ligne 20 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\obj_CRT_Windows\Draw_64.gml
+Intégré converti - ligne 6 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 6 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\obj_CRT_HTML5\Create_0.gml
+Intégré converti - ligne 7 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 10 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 8 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+Intégré converti - ligne 11 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\obj_CRT_HTML5\Draw_64.gml
+Intégré converti - ligne 4 : view_wview[0] -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 4 : view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\GravWallUp_obj\Draw_0.gml
+Description convertie /// @description Draw With Unlimited Palette Swap     
+
+Conversion du script GML : ${project_dir}\objects\GravWallDown_obj\Draw_0.gml
+Description convertie /// @description Draw With Unlimited Palette Swap     
+
+Conversion du script GML : ${project_dir}\objects\obj_palette_manager\Create_0.gml
+Description convertie /// @description Initilize System and add palettes
+
+Conversion du script GML : ${project_dir}\objects\obj_tile_swapper_start\Create_0.gml
+Description convertie /// @description Properties
+
+Conversion du script GML : ${project_dir}\objects\obj_tile_swapper_start\Step_2.gml
+Description convertie /// @description Clean up
+
+Conversion du script GML : ${project_dir}\objects\obj_tile_swapper_start\Draw_0.gml
+Description convertie /// @description Enable Palette Swapping
+
+Conversion du script GML : ${project_dir}\objects\obj_tile_swapper_end\Create_0.gml
+Description convertie /// @description Properties
+
+Conversion du script GML : ${project_dir}\objects\obj_tile_swapper_end\Step_2.gml
+Description convertie /// @description Clean up
+
+Conversion du script GML : ${project_dir}\objects\obj_tile_swapper_end\Draw_0.gml
+Description convertie /// @description End Palette Swapping
+
+Conversion du script GML : ${project_dir}\objects\GravScreenDown_obj\Draw_0.gml
+Description convertie /// @description Draw With Unlimited Palette Swap     
+
+Conversion du script GML : ${project_dir}\objects\GravScreenUp_obj\Draw_0.gml
+Description convertie /// @description Draw With Unlimited Palette Swap     
+
+Conversion du script GML : ${project_dir}\objects\obj_beepblock_red\Create_0.gml
+Description convertie /// @description Red Beep Block
+
+Conversion du script GML : ${project_dir}\objects\obj_beepblock_red\Alarm_0.gml
+Description convertie /// @description Animate
+
+Conversion du script GML : ${project_dir}\objects\obj_beepblock_red\Other_7.gml
+Description convertie /// @description End animation
+
+Conversion du script GML : ${project_dir}\objects\obj_beepblock_blue\Create_0.gml
+Description convertie /// @description Blue Beep Block
+
+Conversion du script GML : ${project_dir}\objects\obj_beepblock_blue\Other_7.gml
+Description convertie /// @description End animation
+
+Conversion du script GML : ${project_dir}\objects\OrangeBeepBlock_OBJ\Step_0.gml
+Intégré converti - ligne 1 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 1 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 1 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 1 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 1 : view_wview -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 1 : view_hview -> __view_get( e__VW.HView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\GreenBeepBlock_OBJ\Step_0.gml
+Intégré converti - ligne 1 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 1 : view_xview -> __view_get( e__VW.XView, 0 )
+Intégré converti - ligne 1 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 1 : view_yview -> __view_get( e__VW.YView, 0 )
+Intégré converti - ligne 1 : view_wview -> __view_get( e__VW.WView, 0 )
+Intégré converti - ligne 1 : view_hview -> __view_get( e__VW.HView, 0 )
+
+Conversion du script GML : ${project_dir}\objects\LinePlatH_obj\Create_0.gml
+Description convertie /// @description A platform that moves in a path.
+
+Conversion du script GML : ${project_dir}\objects\LinePlatH_obj\Step_0.gml
+Description convertie /// @description Makes the platform move around on paths.
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_killer\Create_0.gml
+Description convertie /// @description Kills block train spare blocks
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_killer\Alarm_0.gml
+Description convertie /// @description Destroy
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_killer\Collision_58681d16-a2ac-4fd0-a781-c99993375035.gml
+Description convertie /// @description Destroy
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain\Create_0.gml
+Description convertie /// @description Block train
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain\Alarm_0.gml
+Description convertie /// @description Move when room starts
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain\Step_0.gml
+Description convertie /// @description Create moving block train
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_back\Create_0.gml
+Description convertie /// @description Back block of the block train
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_back\Alarm_0.gml
+Description convertie /// @description Allow creation of new blocks
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_back\Step_2.gml
+Description convertie /// @description Default platform logic
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_back\Step_0.gml
+Description convertie /// @description Block train logic
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_back\Collision_0b2148f1-1059-4a9b-a2f8-d55f7bb04e33.gml
+Description convertie /// @description Move up
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_middle\Create_0.gml
+Description convertie /// @description Middle block of the block train
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Create_0.gml
+Description convertie /// @description Front block of the block train
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Alarm_0.gml
+Description convertie /// @description Allow creation of new blocks
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Step_2.gml
+Description convertie /// @description Default platform logic
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Step_0.gml
+Description convertie /// @description Block train logic
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Collision_e6113ea0-a2b5-4a8f-82bb-4648d55572ad.gml
+Description convertie /// @description Go down
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Collision_f0e0d1f9-777f-4207-b48a-c194ce5a137e.gml
+Description convertie /// @description Go up
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Collision_1ba62dc9-080a-4913-a4f6-0808aa740384.gml
+Description convertie /// @description Go left
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Collision_d6021636-d949-42f8-9a79-f0ded06c3d92.gml
+Description convertie /// @description Go right
+
+Conversion du script GML : ${project_dir}\objects\obj_blocktrain_front\Collision_ab9441ee-fd8f-4be5-bee8-81b234246e2f.gml
+Description convertie /// @description Move up
+
+L'icône macOS ${options_dir}\mac\icons\icon512.png est écrite en 32 bits
+Le script d'installation de Windows NSIS revient aux valeurs par défaut en raison des modifications apportées à GameMaker Studio 2
+Audiogroupe manquant pour le son : 'TitleSong' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'PlaceHolder' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'PHV' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'placeSetel' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'snd_beep' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'snd_clack' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'GravFlip' - le groupe audio revient aux valeurs par défaut
+Audiogroupe manquant pour le son : 'death' - le groupe audio revient aux valeurs par défaut
+Les profondeurs de calque importées pour la (les) pièce(s) 'TitleScreenMenu' n'étaient pas correctement espacées. Corriger, sinon cela aura des résultats indéfinis dans le jeu.
+Vitesse de jeu fixée à 60
+Ajout du script de compatibilité 'action/action_snap.gml'
+Ajout du script de compatibilité 'background/background_assign.gml'
+Ajout du script de compatibilité 'background/background_get_width.gml'
+Ajout du script de compatibilité 'background/draw_background_ext.gml'
+Ajout du script de compatibilité 'background/__background_get.gml'
+Ajout du script de compatibilité 'background/__background_get_element.gml'
+Ajout du script de compatibilité 'background/__background_get_internal.gml'
+Ajout du script de compatibilité 'background/__background_set.gml'
+Ajout du script de compatibilité 'background/__background_set_colour.gml'
+Ajout du script de compatibilité 'background/__background_set_element.gml'
+Ajout du script de compatibilité 'background/__background_set_internal.gml'
+Ajout du script de compatibilité 'instance/instance_create.gml'
+Ajout du script de compatibilité 'object/object_get_depth.gml'
+Ajout du script de compatibilité 'texture/texture_set_interpolation_ext.gml'
+Ajout du script de compatibilité 'view/__view_get.gml'
+Ajout du script de compatibilité 'view/__view_set.gml'
+Ajout du script de compatibilité 'view/__view_set_internal.gml'
+Ajout du script de compatibilité 'action/__init_action.gml'
+Ajout du script de compatibilité 'background/__init_background.gml'
+Ajout du script de compatibilité 'view/__init_view.gml'
+Ajout du script de compatibilité '__init_global.gml'
+Ajout du script de compatibilité 'background/__background_get_colour_element.gml'
+Ajout du script de compatibilité '__global_object_depths.gml'

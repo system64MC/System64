@@ -1,0 +1,17 @@
+shader_set(sh_CRT_Windows);
+  shader_set_uniform_f(uni_crt_sizes, surface_width, surface_height,crt_surface_width, crt_surface_height);
+  shader_set_uniform_f(distort, var_distort);
+  shader_set_uniform_f(distortion, var_distortion_ammount);
+  shader_set_uniform_f(border, var_border);
+  draw_surface_part_ext(application_surface, 0, 0, __view_get( e__VW.WView, 0 ), __view_get( e__VW.HView, 0 ), 0, 0, crt_surface_scale, crt_surface_scale, c_white, 1);
+shader_reset();
+
+draw_set_color(c_white);
+//draw_text(2,2,string(fps_real));
+//draw_text(2,15,"SCALE = " + string(crt_surface_scale) +" press 3,4,5,6 to change");
+//draw_text(2,30,"Distortion = " + string(var_distort) +" press Space to change");
+//draw_text(2,45,"Distortion amount = " + string(var_distortion_ammount) +" press W/S to change");
+//draw_text(2,60,"Border = " + string(var_border) +" press B to change");
+draw_set_color(c_white);
+
+
